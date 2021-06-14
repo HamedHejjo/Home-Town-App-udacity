@@ -268,8 +268,8 @@ main {
  */
 
 .weather {
-  /* float: right;
-  width: 320px; */
+  float: right;
+  width: 100%;
   padding: 1em;
 }
 
@@ -372,4 +372,5 @@ footer li {
 footer a {
   text-decoration: none;
   color: #333;
+  padding: 1.5em;
 }
